@@ -9,7 +9,7 @@ Aplicación web desarrollada para consultar encuentros deportivos utilizando una
 - Filtro por competiciones
 - Filtro por fecha
 - Visualización de encuentros y resultados
-- Visualización de goles y amonestaciones en partidos de fútbol finalziados
+- Visualización de goles y amonestaciones en partidos de fútbol finalizados
 - Identificación de goles de penal
 - Consulta de fútbol, baloncesto y tenis
 
